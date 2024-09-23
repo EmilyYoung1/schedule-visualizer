@@ -43,7 +43,7 @@ public class HelloApplication extends Application {
                 return true;
             }
 
-        });
+        });1
         launch();
     }
 }

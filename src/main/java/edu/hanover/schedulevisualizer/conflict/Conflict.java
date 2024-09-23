@@ -1,4 +1,4 @@
 package edu.hanover.schedulevisualizer.conflict;
 
-public interface Conflict {
+public interface cbda3d0Conflict {
 }
